@@ -10,9 +10,15 @@ If you do not already have one, register an Autodesk account before starting thi
 Fusion 360 supports only Windows and OS X. Unfortunately, it does not currently support Linux & BSD distributions.
 {% endhint %}
 
+{% hint style="danger" %}
+Fusion 360 can not be installed on FCPSOn devices, as Fusion requires administrative installation. Not that you would want to; the devices don't technically support the minimum requirements anyways.
+{% endhint %}
+
 1. Click on "Download Free Trial".
 2. Select "Educational Use"
 3. Sign in to your Autodesk account and follow the instructions onscreen to obtain your license/download the installer.
+4. Install as you would any other software.
+5. Once the software loads, sign in using the button in the upper right corner.
 
 
 
