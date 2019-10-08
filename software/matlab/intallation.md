@@ -16,7 +16,7 @@ No installation procedure has been determined for FCPSOn devices. Do not attempt
 
 Install Matlab as you would any other software, following the instructions of the prompt.
 
-### Mac
+### Macintosh
 
 Install Matlab as you would any other software, following the instructions of the prompt.
 
