@@ -1,4 +1,4 @@
-# Installation
+# Installation \(To complete\)
 
 For all operating systems, feel free to download all the packages you are permitted to under the education licence, for once you download it the software is forever in your possession. For some reason Matlab, once installed, continues to work even when the license expires. 
 
@@ -33,6 +33,10 @@ More information can be obtained [here](https://help.ubuntu.com/community/MATLAB
 #### Arch
 
 The [matlab](https://aur.archlinux.org/packages/matlab/)$$^{{AUR}}$$ package can be used to facilitate the install of Matlab. However, it is strongly recommended to look at [the wiki](https://wiki.archlinux.org/index.php/MATLAB#Installing_from_the_MATLAB_installation_software) for advanced configuration.
+
+{% hint style="success" %}
+Matlab should now be installed.
+{% endhint %}
 
 
 

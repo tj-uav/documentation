@@ -13,3 +13,7 @@ We strongly recommend getting the full version, as all instructions assume that 
 3. Run, and right click on the bottom bar to access, and click on the Settings option.
 4. In the General settings that come up, locate "Choose your startup task..." Set the next dropdown to `{bash::bash}`.
 
+{% hint style="success" %}
+Cmder should now be fully installed \(and set up\).
+{% endhint %}
+

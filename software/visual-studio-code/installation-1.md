@@ -26,3 +26,7 @@ Arch Linux \(+Derivatives\)‌
 
 `code` is a package part of the `community` repository. Simply run `pacman -S code` as root to install.
 
+{% hint style="success" %}
+Visual Studio Code should now be installed.
+{% endhint %}
+

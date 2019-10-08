@@ -20,5 +20,9 @@ Fusion 360 can not be installed on FCPSOn devices, as Fusion requires administra
 4. Install as you would any other software.
 5. Once the software loads, sign in using the button in the upper right corner.
 
+{% hint style="success" %}
+Fusion 360 should now be installed.
+{% endhint %}
+
 
 

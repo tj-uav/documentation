@@ -16,3 +16,7 @@ Simply head to the download pages \([here](http://firmware.ardupilot.org/Tools/M
 
 Simply head to the download pages \([here](http://firmware.ardupilot.org/Tools/MissionPlanner/)\), and download the .zip file. Then extract to a local directory \(against the wishes of administration, perhaps a MicroSD instead\). From there, run as you would any other program by clicking on the executable.
 
+{% hint style="success" %}
+MissionPlanner should now be installed.
+{% endhint %}
+

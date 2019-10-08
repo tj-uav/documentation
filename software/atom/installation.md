@@ -26,3 +26,7 @@ Arch Linux \(+Derivatives\)
 
 `atom` is a package part of the `community` repository. Simply run `pacman -S atom` as root to install.
 
+{% hint style="success" %}
+Atom should now be installed.
+{% endhint %}
+
