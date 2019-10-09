@@ -2,6 +2,10 @@
 
 * [TJUAV Documentation](README.md)
 
+## Procedures
+
+* [Laser Cutting](procedures/laser-cutting.md)
+
 ## Hardware
 
 * [Aerial Systems](hardware/aerial-systems/README.md)
@@ -47,4 +51,5 @@
   * [Debugging](software/visual-studio-code/debugging/README.md)
     * [Python Debugging Setup](software/visual-studio-code/debugging/untitled.md)
     * [Java Debugging Setup](software/visual-studio-code/debugging/java-debugging-setup-to-finish.md)
+* [AutoCAD](software/autocad.md)
 
