@@ -4,6 +4,10 @@
 For Linux users, see the Linux install instructions for your particular distribution before continuing, for some instructions may very slightly.
 {% endhint %}
 
+{% hint style="danger" %}
+For FCPSOn device users, a special version version must be used to avoid installation. Instead, download [this](https://portableapps.com/apps/graphics_pictures/gimp_portable).
+{% endhint %}
+
 ### Windows
 
 Head to the [GIMP website](https://www.gimp.org/downloads/), and download the installer. Install as you would any typical program.

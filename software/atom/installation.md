@@ -4,6 +4,10 @@
 For Linux users, see the Linux install instructions for your particular distribution before continuing, for some instructions may very slightly.
 {% endhint %}
 
+{% hint style="danger" %}
+For FCPSOn devices, instead download [this](https://portableapps.com/node/53227) version of Atom, for atom requires administrative installation. However, it is a development version so it may not be perfect.
+{% endhint %}
+
 ### Windows
 
 Head to [https://atom.io](https://atom.io) and locate the installer download. Run the executable and it will fully install itself.

@@ -1,5 +1,9 @@
 # Installation
 
+{% hint style="danger" %}
+For FCPSOn users, instructions will vary as it must be installed portable. See the portable instructions under Windows.
+{% endhint %}
+
 {% hint style="warning" %}
 For Linux users, see the Linux install instructions for your particular distribution before continuing, for some instructions may very slightly.‌
 {% endhint %}
@@ -7,6 +11,14 @@ For Linux users, see the Linux install instructions for your particular distribu
 ### Windows <a id="windows"></a>
 
 Head to the [download page](https://code.visualstudio.com/#alt-downloads) and locate the installer download. Run the executable and it will fully install itself.‌
+
+#### Portable
+
+If you wish to install VS Code portable \(requirement on FCPSOn, follow these instructions:
+
+1. Head to the [download page](https://code.visualstudio.com/#alt-downloads) and download the .zip version.
+2. Extract to your install directory.
+3. Add a data folder to the folder you extracted to. It should be in the same folder as Code.exe.
 
 ### Macintosh‌ <a id="macintosh"></a>
 
