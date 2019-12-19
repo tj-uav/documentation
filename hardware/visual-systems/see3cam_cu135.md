@@ -20,9 +20,11 @@ The Lens Datasheet is for the included lens currently on the See3Cam.
 
 {% file src="../../.gitbook/assets/e-con\_see3cam\_cu135\_lens\_datasheet.pdf" caption="Lens Datasheet" %}
 
-{% file src="../../.gitbook/assets/e-con\_see3cam\_cu135\_type\_c\_datasheet.pdf" %}
+{% file src="../../.gitbook/assets/e-con\_see3cam\_cu135\_type\_c\_datasheet.pdf" caption="Module Datasheet" %}
 
-{% file src="../../.gitbook/assets/e-con\_see3cam\_cu135\_type\_c\_getting\_started\_manual.pdf" %}
+{% file src="../../.gitbook/assets/e-con\_see3cam\_cu135\_type\_c\_getting\_started\_manual.pdf" caption="Module Getting Started" %}
+
+
 
 
 

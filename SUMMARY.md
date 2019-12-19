@@ -12,6 +12,8 @@
 * [Aerial Systems](hardware/aerial-systems/README.md)
   * [Razgriz \(Needs Finishing\)](hardware/aerial-systems/razgriz-needs-finishing.md)
 * [Visual Systems](hardware/visual-systems/README.md)
+  * [Sony α5000](hardware/visual-systems/sony-a5000/README.md)
+    * [Known Issues](hardware/visual-systems/sony-a5000/known-issues.md)
   * [See3Cam\_CU135](hardware/visual-systems/see3cam_cu135.md)
   * [Arducam 4](hardware/visual-systems/arducam-4.md)
 * [Computing Systems](hardware/computing-systems/README.md)
