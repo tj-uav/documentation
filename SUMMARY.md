@@ -5,6 +5,7 @@
 ## Procedures
 
 * [Laser Cutting](procedures/laser-cutting.md)
+* [3D Printing \(Needs to be completed\)](procedures/3d-printing.md)
 
 ## Hardware
 
@@ -51,5 +52,11 @@
   * [Debugging](software/visual-studio-code/debugging/README.md)
     * [Python Debugging Setup](software/visual-studio-code/debugging/untitled.md)
     * [Java Debugging Setup](software/visual-studio-code/debugging/java-debugging-setup-to-finish.md)
-* [AutoCAD](software/autocad.md)
+* [AutoCAD](software/autocad/README.md)
+  * [Installation \(To do\)](software/autocad/installation-to-do.md)
+  * [Usage](software/autocad/usage/README.md)
+    * [Example menu 1](software/autocad/usage/example-menu-1.md)
+    * [Example menu 2](software/autocad/usage/example-menu-2.md)
+* [Ultimaker Cura](software/ultimaker-cura/README.md)
+  * [Installation](software/ultimaker-cura/installation.md)
 
