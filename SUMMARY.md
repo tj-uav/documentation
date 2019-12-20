@@ -36,6 +36,10 @@
 
 ## Software
 
+* [Python](software/python/README.md)
+  * [Installation](software/python/installation.md)
+  * [Usage](software/python/usage.md)
+  * [Package installation w/ pip](software/python/package-installation-w-pip.md)
 * [MissionPlanner](software/missionplanner/README.md)
   * [Installation](software/missionplanner/installation.md)
 * [Fusion 360](software/fusion-360/README.md)
