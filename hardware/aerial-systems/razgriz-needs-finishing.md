@@ -4,7 +4,7 @@
 
 The Razgriz is based on the Skywalker X8 platform and was used in TJUAV's first ASUVI SUAS competition in 2019.
 
-### Hardware
+### Hardware Used
 
 * [See3Cam](../visual-systems/see3cam_cu135.md)
 * [TX2](../computing-systems/nvidia-jetson-tx2-to-finish/)

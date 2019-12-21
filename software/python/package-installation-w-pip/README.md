@@ -1,5 +1,9 @@
 # Package installation w/ pip
 
+{% hint style="info" %}
+Documentation for specific packages can be found under this one.
+{% endhint %}
+
 ### Introduction
 
 Extra libraries can be added to Python to supplement what you write. Although by no means definitive, this page should get you ready to understand how to at least deal with them - they're a major part of what we do.

@@ -4,13 +4,16 @@
 
 ## Procedures
 
-* [Laser Cutting](procedures/laser-cutting.md)
+* [Documentation \(finish me!\)](procedures/documentation-finish-me.md)
+* [Repository Management \(finish me!\)](procedures/repository-management-finish-me.md)
+* [Laser Cutting \(finish me!\)](procedures/laser-cutting.md)
 * [3D Printing \(Needs to be completed\)](procedures/3d-printing.md)
 
 ## Hardware
 
 * [Aerial Systems](hardware/aerial-systems/README.md)
   * [Razgriz \(Needs Finishing\)](hardware/aerial-systems/razgriz-needs-finishing.md)
+  * [New Plane \(Needs Finishing, fix name\)](hardware/aerial-systems/new-plane-needs-finishing-fix-name.md)
 * [Visual Systems](hardware/visual-systems/README.md)
   * [Sony α5000](hardware/visual-systems/sony-a5000/README.md)
     * [Known Issues](hardware/visual-systems/sony-a5000/known-issues.md)
@@ -39,7 +42,10 @@
 * [Python](software/python/README.md)
   * [Installation](software/python/installation.md)
   * [Usage](software/python/usage.md)
-  * [Package installation w/ pip](software/python/package-installation-w-pip.md)
+  * [Package installation w/ pip](software/python/package-installation-w-pip/README.md)
+    * [OpenCV \(complete me!\)](software/python/package-installation-w-pip/opencv-complete-me.md)
+    * [Tensorflow \(complete me!\)](software/python/package-installation-w-pip/tensorflow-complete-me.md)
+    * [gphoto2](software/python/package-installation-w-pip/gphoto2.md)
 * [MissionPlanner](software/missionplanner/README.md)
   * [Installation](software/missionplanner/installation.md)
 * [Fusion 360](software/fusion-360/README.md)
@@ -65,4 +71,8 @@
     * [Example menu 2](software/autocad/usage/example-menu-2.md)
 * [Ultimaker Cura](software/ultimaker-cura/README.md)
   * [Installation](software/ultimaker-cura/installation.md)
+
+## Services
+
+* [tjuav.org](services/tjuav.org.md)
 

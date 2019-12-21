@@ -2,11 +2,11 @@
 
 ### General Information
 
-The Sony α5000 \(known as the a5000\) is a 20.1 MP camera developed by Sony using an APS-C sensor \(1.5x\) sensor crop\). 
+The Sony α5000 \(known as the a5000\) is a 20.1 MP camera developed by Sony using an APS-C sensor \(1.5x sensor crop\). 
+
+The α5000 can be controlled using [gphoto2](../../../software/python/package-installation-w-pip/gphoto2.md). Limitations of this system with this particular camera can be found [here](known-issues.md).
 
 General specifications can be found [here](https://www.e-consystems.com/4k-usb-camera.asp).
-
-
 
 ### Information
 
