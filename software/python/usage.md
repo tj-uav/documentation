@@ -8,7 +8,7 @@ In this guide you may see `py` or `python` used interchangeably. They mean the s
 
 #### Windows
 
-Use `py -2 <program name>` for code designed to run with Python 3.\*, and `py -2 <program name>` for code designed to run with Python 2.\*. Try to keep everything on Python 3. 
+Use `py -3 <program name>` for code designed to run with Python 3.\*, and `py -2 <program name>` for code designed to run with Python 2.\*. Try to keep everything on Python 3. 
 
 #### Macintosh + Linux
 

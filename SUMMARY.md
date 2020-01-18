@@ -42,6 +42,7 @@
   * [Installation](software/python/installation.md)
   * [Usage](software/python/usage.md)
   * [Package installation w/ pip](software/python/package-installation-w-pip/README.md)
+    * [Interop Library](software/python/package-installation-w-pip/interop-library.md)
     * [OpenCV \(complete me!\)](software/python/package-installation-w-pip/opencv-complete-me.md)
     * [Tensorflow \(complete me!\)](software/python/package-installation-w-pip/tensorflow-complete-me.md)
     * [gphoto2](software/python/package-installation-w-pip/gphoto2.md)
