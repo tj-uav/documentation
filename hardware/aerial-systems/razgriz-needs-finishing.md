@@ -8,7 +8,7 @@ The Razgriz is based on the Skywalker X8 platform and was used in TJUAV's first 
 
 * [See3Cam](../visual-systems/see3cam_cu135.md)
 * [TX2](../computing-systems/nvidia-jetson-tx2-to-finish/)
-* [Bullet M2](../communication-systems/ubiquity-bullet-m2-to-finish.md)
+* [Bullet M2]()
 * [RFD-900](../communication-systems/rfd-900-please-put-actual-name-of-device-here-to-finish.md)
 
 
