@@ -12,6 +12,7 @@
 ## Hardware
 
 * [Aerial Systems](hardware/aerial-systems/README.md)
+  * [Hyperion](hardware/aerial-systems/hyperion.md)
   * [Razgriz \(Needs Finishing\)](hardware/aerial-systems/razgriz-needs-finishing.md)
   * [New Plane \(Needs Finishing, fix name\)](hardware/aerial-systems/new-plane-needs-finishing-fix-name.md)
 * [Visual Systems](hardware/visual-systems/README.md)
@@ -64,7 +65,7 @@
   * [Debugging](software/visual-studio-code/debugging/README.md)
     * [Python Debugging Setup](software/visual-studio-code/debugging/untitled.md)
     * [Java Debugging Setup](software/visual-studio-code/debugging/java-debugging-setup-to-finish.md)
-* [AutoCAD](software/autocad/README.md)
+* [AutoCAD](software/autocad.md)
   * [Installation \(To do\)](software/autocad/installation-to-do.md)
   * [Usage](software/autocad/usage/README.md)
     * [Example menu 1](software/autocad/usage/example-menu-1.md)
