@@ -23,7 +23,7 @@
 * [Computing Systems](hardware/computing-systems/README.md)
   * [NVidia Jetson TX2](hardware/computing-systems/nvidia-jetson-tx2-to-finish/README.md)
     * [Introduction \(To Finish\)](hardware/computing-systems/nvidia-jetson-tx2-to-finish/introduction-to-finish.md)
-    * [Flashing the NVIDIA Jetson tx2](hardware/computing-systems/nvidia-jetson-tx2-to-finish/flashing-tx2-to-finish.md)
+    * [Flashing the NVIDIA Jetson TX2 Orbitty Carrier](hardware/computing-systems/nvidia-jetson-tx2-to-finish/flashing-tx2-to-finish.md)
     * [NVidia Development Board \(To Finish\)](hardware/computing-systems/nvidia-jetson-tx2-to-finish/nvidia-development-board-to-finish.md)
     * [Orbity Carrier Board \(To Finish\)](hardware/computing-systems/nvidia-jetson-tx2-to-finish/orbity-carrier-board-to-finish.md)
   * [Raspberry Pi 3](hardware/computing-systems/raspberry-pi-3-to-finish/README.md)

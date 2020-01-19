@@ -1,4 +1,4 @@
-# Flashing the NVIDIA Jetson tx2
+# Flashing the NVIDIA Jetson TX2 Orbitty Carrier
 
 **Flashing the NVIDIA Jetson tx2**
 
