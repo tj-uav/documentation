@@ -14,7 +14,7 @@
 * [Aerial Systems](hardware/aerial-systems/README.md)
   * [Hyperion](hardware/aerial-systems/hyperion.md)
   * [Razgriz \(Needs Finishing\)](hardware/aerial-systems/razgriz-needs-finishing.md)
-  * [New Plane \(Needs Finishing, fix name\)](hardware/aerial-systems/new-plane-needs-finishing-fix-name.md)
+  * [Hyperion \(Needs Finishing\)](hardware/aerial-systems/new-plane-needs-finishing-fix-name.md)
 * [Visual Systems](hardware/visual-systems/README.md)
   * [Sony α5000](hardware/visual-systems/sony-a5000/README.md)
     * [Known Issues](hardware/visual-systems/sony-a5000/known-issues.md)
