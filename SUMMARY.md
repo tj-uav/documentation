@@ -28,6 +28,7 @@
     * [NVidia Development Board \(To Finish\)](hardware/computing-systems/nvidia-jetson-tx2-to-finish/nvidia-development-board-to-finish.md)
     * [Orbity Carrier Board \(To Finish\)](hardware/computing-systems/nvidia-jetson-tx2-to-finish/orbity-carrier-board-to-finish.md)
   * [Raspberry Pi 3](hardware/computing-systems/raspberry-pi-3-to-finish/README.md)
+    * [Interop Server \(Complete me!\)](hardware/computing-systems/raspberry-pi-3-to-finish/interop-server-complete-me.md)
     * [OS Installation](hardware/computing-systems/raspberry-pi-3-to-finish/os-installation-to-finish.md)
   * [PineA64](hardware/computing-systems/pinea64-to-finish/README.md)
     * [OS Installation](hardware/computing-systems/pinea64-to-finish/os-installation-to-finish.md)
@@ -37,6 +38,17 @@
 * [Control Systems](hardware/control-systems/README.md)
   * [Pixhawk \(Please put actual name of device here\)](hardware/control-systems/pixhawk-please-put-actual-name-of-device-here.md)
   * [GPS \(Please put actual name of device here\)](hardware/control-systems/gps-please-put-actual-name-of-device-here.md)
+
+## Programming
+
+* [Imaging](programming/imagery/README.md)
+  * [Computer Vision](programming/imagery/computer-vision/README.md)
+    * [Isolation Files](programming/imagery/computer-vision/isolation-files/README.md)
+      * [targetIsolation.py](programming/imagery/computer-vision/isolation-files/targetisolation.py.md)
+* [Flight Control](programming/flight-control/README.md)
+  * [Obstacle Avoidance](programming/flight-control/obstacle-avoidance/README.md)
+    * [A\*](programming/flight-control/obstacle-avoidance/a.md)
+* [Ground Control Systems](programming/ground-control-systems.md)
 
 ## Software
 
