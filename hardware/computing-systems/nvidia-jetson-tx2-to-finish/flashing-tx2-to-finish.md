@@ -22,7 +22,7 @@ There will be a folder named nvidia in the download location you previously spec
 
 `tar -xvf CTI-L4T.tgz`
 
-You are ready to flash the Jetson now. Put the device into recovery mode by unplugging power, then power up, press the power button, then press and hold the force recovery button, press the reset button and after 5 sec release the force recovery button. Now connect to the Jetson from your Ubuntu machine with a USB-microUSB cable and flash:
+You are ready to flash the Jetson now. Put the device into recovery mode by unplugging power, then power up, press the power button, then press and hold the force recovery button, press the reset button and after 5 sec release the force recovery button. Now connect to the Jetson from your Ubuntu machine with a USB-to-microUSB cable and flash:
 
 `sudo ./cti-flash.sh`
 

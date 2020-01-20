@@ -10,7 +10,7 @@ description: >-
 
 First, power the M2 and Dish \(Powerbeam\) using PoE injectors. Generally, you want to use a battery-powered injector for the M2 and an AC powered injector for the Dish. The leftmost LED should be green. Wait for 30 seconds to see if the rest of the M2 & Dish LEDs light up. If they do, skip to the next section.
 
-If nothing happens, it means M2 hasn’t connected to the Dish’s Access Point yet. First, you should check all available Wi-Fi connections. If something like TJ-AP or TJ-GS shows up, the Dish is doing its job. Otherwise, you want to access the Dish’s configuration page by typing 192.168.1.20 in a browser. If this does not work, you must set a static IP for the Dish. On a linux computer, use the following command:
+If nothing happens, it means the Bullet hasn’t connected to the Dish’s Access Point yet. First, you should check all available Wi-Fi connections. If something like TJ-AP or TJ-GS shows up, the Dish is doing its job. Otherwise, you want to access the Dish’s configuration page by typing 192.168.1.20 in a browser. If this does not work, you must set a static IP for the Dish. On a linux computer, use the following command:
 
 `sudo ifconfig eth0 192.168.1.7 netmask 255.255.255.0`
 
@@ -20,9 +20,9 @@ Click on Properties, then click _Use the following IP Address._
 
 Set the IP address to 192.168.1.7 or 192.168.1.x where x is any number except for 20.
 
-You should now be able to access 192.168.1.20 in a browser. If you don’t know the login, ask around. If absolutely no one in the club knows the login, you must factory reset the Bullet and repeat above steps. The default login is **ubnt** for both user and password. Click on the Systems tab and in the bottom right, click on “Upload Configuration”. Upload the Dish configuration file from our GCS repo.
+You should now be able to access 192.168.1.20 in a browser. If you don’t know the login, ask around. If absolutely no one in the club knows the login, you must factory reset the M2 and repeat above steps. The default login is **ubnt** for both user and password. Click on the Systems tab and in the bottom right, click on “Upload Configuration”. Upload the Dish configuration file from our GCS repo.
 
-Now access the Bullet M2’s configuration in a browser. Upload the M2 configuration file from our GCS repo.
+Now access the Bullet M2’s configuration in a browser. Upload the Bullet configuration file from our GCS repo.
 
 **ONCE ALL LEDS ARE LIT**
 

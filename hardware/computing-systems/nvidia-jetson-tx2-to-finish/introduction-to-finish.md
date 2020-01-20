@@ -1,10 +1,8 @@
-# Introduction \(To Finish\)
+# Introduction
 
 {% hint style="danger" %}
 As of late, pip3 is broken on the Jetson. Use python3 -m pip instead.
 {% endhint %}
-
-The NVidia Jetson TX2 is an ARM64 based SOC designed for portable machine learning specifications. It has played the roll as the primary computational device on the [Razgriz](../../aerial-systems/razgriz-needs-finishing.md).
 
 [https://elinux.org/Jetson\_TX2](https://elinux.org/Jetson_TX2) contains some super useful information. Package installation guides are found in the [Deep Learning](https://elinux.org/Jetson_TX2#Deep_Learning) section.
 

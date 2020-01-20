@@ -12,7 +12,6 @@
 ## Hardware
 
 * [Aerial Systems](hardware/aerial-systems/README.md)
-  * [Hyperion](hardware/aerial-systems/hyperion.md)
   * [Razgriz \(Needs Finishing\)](hardware/aerial-systems/razgriz-needs-finishing.md)
   * [Hyperion \(Needs Finishing\)](hardware/aerial-systems/new-plane-needs-finishing-fix-name.md)
 * [Visual Systems](hardware/visual-systems/README.md)
@@ -22,7 +21,7 @@
   * [Arducam 4](hardware/visual-systems/arducam-4.md)
 * [Computing Systems](hardware/computing-systems/README.md)
   * [NVidia Jetson TX2](hardware/computing-systems/nvidia-jetson-tx2-to-finish/README.md)
-    * [Introduction \(To Finish\)](hardware/computing-systems/nvidia-jetson-tx2-to-finish/introduction-to-finish.md)
+    * [Introduction](hardware/computing-systems/nvidia-jetson-tx2-to-finish/introduction-to-finish.md)
     * [Installing Packages](hardware/computing-systems/nvidia-jetson-tx2-to-finish/installing-packages.md)
     * [Flashing the NVIDIA Jetson TX2 Orbitty Carrier](hardware/computing-systems/nvidia-jetson-tx2-to-finish/flashing-tx2-to-finish.md)
     * [NVidia Development Board \(To Finish\)](hardware/computing-systems/nvidia-jetson-tx2-to-finish/nvidia-development-board-to-finish.md)
