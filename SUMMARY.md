@@ -4,10 +4,10 @@
 
 ## Procedures
 
-* [Documentation \(finish me!\)](procedures/documentation-finish-me.md)
+* [Documentation \(finish me!\)](procedures/documentation-finish-me/README.md)
   * [GitBook](procedures/documentation-finish-me/gitbook.md)
   * [Basic Usage](procedures/documentation-finish-me/basic-usage.md)
-* [Repository Management \(finish me!\)](procedures/repository-management-finish-me.md)
+* [Repository Management \(finish me!\)](procedures/repository-management-finish-me/README.md)
   * [GitHub](procedures/repository-management-finish-me/github/README.md)
     * [Basic Usage \(Site specific\) \(Finish me\)](procedures/repository-management-finish-me/github/basic-usage-site-specific-finish-me.md)
   * [Git](procedures/repository-management-finish-me/git/README.md)

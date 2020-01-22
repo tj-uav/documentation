@@ -22,19 +22,23 @@ Code Documentation is essentially an API that describes what a method does, how 
 Make sure you never put confidential information on GitBook. Once it's here it's never going away.
 {% endhint %}
 
+{% hint style="danger" %}
+Make sure you save often, because if someone else accidentally merges your branch while you're editing, it'll delete everything you have. Discovered while writing this page.
+{% endhint %}
+
 GitBook is designed to be easy to use, so playing around with it is almost certainly enough. To be faster though:
 
 ![Self-referential screenshot of interface](../../.gitbook/assets/gitbookdoc.PNG)
 
 The above screenshot shows the administrative level interface, the writers interface is much the same minus a few buttons here and there.
 
-#### Left bar
+#### Left Panel
 
 The most important part of this entire interface is the Edits button at the top. Additional settings can be found below, but they contain very few options that take only a minute to understand at most, stuff like customization and whatnot.
 
-#### Left extended bar
+#### Left Extended Panel
 
-This is that menu that you see for your selection on the left bar. You can see all drafts there, and you can select one to view what's contained in the draft. To make a new draft, all you need to do is start typing somewhere - it's that easy. When you're working on a draft you have the options to save or delete all changes, the white box shows this page in progress. Once you save, you also have the option to Merge, signified by the Purple button. This refers to GitBook's underlaying use of git; this would signify merging the branch with your edits into the master documentation branch.
+This is that menu that you see for your selection on the left panel. You can see all drafts there, and you can select one to view what's contained in the draft. To make a new draft, all you need to do is start typing somewhere - it's that easy. When you're working on a draft you have the options to save or delete all changes, the white box shows this page in progress. Once you save, you also have the option to Merge, signified by the Purple button. This refers to GitBook's underlaying use of git; this would signify merging the branch with your edits into the master documentation branch.
 
 {% hint style="info" %}
 Because GitBook manages the master branch located in the tj-uav documentation repository, strict controls are not placed unlike other tj-uav repositories.
