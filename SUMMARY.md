@@ -49,10 +49,15 @@
 ## Programming
 
 * [Imaging](programming/imagery/README.md)
+  * [Geotagging](programming/imagery/geotagging.md)
   * [Computer Vision](programming/imagery/computer-vision/README.md)
     * [Isolation Files](programming/imagery/computer-vision/isolation-files/README.md)
       * [targetIsolation.py](programming/imagery/computer-vision/isolation-files/targetisolation.py.md)
 * [Flight Control](programming/flight-control/README.md)
+  * [UGV Drop](programming/flight-control/ugv-drop/README.md)
+    * [Drop Timing Algorithm](programming/flight-control/ugv-drop/drop-timing-algorithm.md)
+    * [Drop Mechanism](programming/flight-control/ugv-drop/drop-mechanism.md)
+  * [Search Algorithms](programming/flight-control/search-algorithms.md)
   * [Obstacle Avoidance](programming/flight-control/obstacle-avoidance/README.md)
     * [A\*](programming/flight-control/obstacle-avoidance/a.md)
 * [Ground Control Systems](programming/ground-control-systems.md)
