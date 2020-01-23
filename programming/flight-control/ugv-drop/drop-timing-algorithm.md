@@ -1,3 +1,7 @@
+---
+description: The algorithm used to figure out when to release the UGV.
+---
+
 # Drop Timing Algorithm
 
 Currently there is no algorithm in place to determine the optimal time to release the UGV. This will require a lot of calculations as well as simulations to figure out an optimal algorithm. Here are some things to consider for the algorithm:
