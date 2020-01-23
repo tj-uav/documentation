@@ -12,7 +12,7 @@
     * [Basic Usage \(Site specific\) \(Finish me\)](procedures/repository-management-finish-me/github/basic-usage-site-specific-finish-me.md)
   * [Git](procedures/repository-management-finish-me/git/README.md)
     * [Basic Usage \(Finish me!\)](procedures/repository-management-finish-me/git/basic-usage-finish-me.md)
-    * [Advanced Usage](procedures/repository-management-finish-me/git/advanced-usage.md)
+    * [Advanced Usage \(Need to complete branches\)](procedures/repository-management-finish-me/git/advanced-usage.md)
     * [Common Issues](procedures/repository-management-finish-me/git/common-issues.md)
 * [Laser Cutting \(finish me!\)](procedures/laser-cutting.md)
 * [3D Printing \(Needs to be completed\)](procedures/3d-printing.md)
