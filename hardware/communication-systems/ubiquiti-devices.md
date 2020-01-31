@@ -47,4 +47,18 @@ Not working?
 * Try pinging the Dish’s IP from both computers
 * Make sure you are connecting over the same port
 * Don’t attempt multiple connections over the same socket; kill both scripts and try again.
+* Bullet disconnecting from ethernet? Run this shell script:
+
+```text
+#!/bin/sh
+while :
+do
+    sudo ifconfig eth0 192.168.1.7 netmask 255.255.255.0
+    sleep 5
+done
+```
+
+
+
+
 
