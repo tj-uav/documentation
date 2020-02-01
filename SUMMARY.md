@@ -35,6 +35,7 @@
     * [NVidia Development Board \(To Finish\)](hardware/computing-systems/nvidia-jetson-tx2-to-finish/nvidia-development-board-to-finish.md)
     * [Orbity Carrier Board \(To Finish\)](hardware/computing-systems/nvidia-jetson-tx2-to-finish/orbity-carrier-board-to-finish.md)
   * [Raspberry Pi 3](hardware/computing-systems/raspberry-pi-3-to-finish/README.md)
+    * [Run script on startup](hardware/computing-systems/raspberry-pi-3-to-finish/run-script-on-startup.md)
     * [Interop Server \(Complete me!\)](hardware/computing-systems/raspberry-pi-3-to-finish/interop-server-complete-me.md)
     * [OS Installation](hardware/computing-systems/raspberry-pi-3-to-finish/os-installation-to-finish.md)
   * [PineA64](hardware/computing-systems/pinea64-to-finish/README.md)
