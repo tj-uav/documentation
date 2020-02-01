@@ -50,6 +50,7 @@
 ## Programming
 
 * [Imaging](programming/imagery/README.md)
+  * [Image Compression](programming/imagery/image-compression.md)
   * [Geotagging](programming/imagery/geotagging.md)
   * [Computer Vision](programming/imagery/computer-vision/README.md)
     * [Isolation Files](programming/imagery/computer-vision/isolation-files/README.md)
