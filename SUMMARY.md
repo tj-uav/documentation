@@ -14,6 +14,7 @@
     * [Basic Usage \(Finish me!\)](procedures/repository-management-finish-me/git/basic-usage-finish-me.md)
     * [Advanced Usage \(Need to complete branches\)](procedures/repository-management-finish-me/git/advanced-usage.md)
     * [Common Issues](procedures/repository-management-finish-me/git/common-issues.md)
+* [Competition Details](procedures/competition-details.md)
 * [Laser Cutting \(finish me!\)](procedures/laser-cutting.md)
 * [3D Printing \(Needs to be completed\)](procedures/3d-printing.md)
 
@@ -62,7 +63,10 @@
   * [Search Algorithms](programming/flight-control/search-algorithms.md)
   * [Obstacle Avoidance](programming/flight-control/obstacle-avoidance/README.md)
     * [A\*](programming/flight-control/obstacle-avoidance/a.md)
-* [Ground Control Systems](programming/ground-control-systems.md)
+* [Ground Control Systems](programming/ground-control-systems/README.md)
+  * [ODCL Server](programming/ground-control-systems/odcl-server.md)
+  * [ODCL Client](programming/ground-control-systems/odcl-client.md)
+  * [System Testing](programming/ground-control-systems/system-testing.md)
 
 ## Software
 
