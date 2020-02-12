@@ -6,7 +6,7 @@ description: Startup guide for new TJUAV members
 
 Hey there! Nice to know you joined the team, now get ready for some fun! You've probably just joined the team, and have already been blasted by questions and tasks to do. If so, don't worry, everyone is confused when they first get started. Hopefully this guide will help you get started and working on the fun stuff ASAP. Also feel free to scroll through GitBook to get yourself familiar with all the software, hardware, and procedures that we use, as well as documentation for anything you struggle with. Don't forget to add documentation on any problems you solve!
 
-The team is mostly split into two subsystems, Mechanical and Programming. If you're unsure what you want to do, think about what you want to go into when you grow up, and what your passion is. Also you can do both mechanical and programming tasks, it's up to you, just let someone \(an officer or a lead\) know what you want subsystem you want to work on and they'll properly assign you a task.
+The team is mostly split into two subsystems, Mechanical and Programming. If you're unsure what you want to do, think about what you want to go into when you grow up, and what your passion is. Also you can do both mechanical and programming tasks, it's up to you, just let someone \(an officer or a lead\) know what subsystem you want to work on and they'll properly assign you a task.
 
 ## Subteams
 
@@ -50,6 +50,14 @@ Okay this one applies to programmers. Linux terminal programming is an EXTREMELY
 **Python**
 
 Once again, this applies mainly to programmers, although I encourage everyone to learn Python because of how useful it is in to engineers as a whole. This is especially because Python is easy to learn, and learning Python makes learning other languages or understanding code a whole lot easier.
+
+**Fusion 360**
+
+This is targeted more for the mechanical subteam, but programmers are encouraged to learn it as well. We use Fusion 360 for all of our CAD here. We also have a team subspace in Fusion 360, so be sure to talk to the mechanical team lead to get added. Once you have everything installed and ready to go, I'd advise you to look into some videos on youtube about Fusion 360 and all of the awesome features it has. Note: do NOT purchase a license for Fusion! You can get a free version with your student account \(@tjhsst.edu\). 
+
+**A note about working in shared spaces**
+
+The tools of our modern era have given us the ability to store our work online in services like github, fusion, and even here in gitbook. Anytime that you are working in one of these environments, please save your work _regularly_. If you forget to save, your work might be lost, or you may end up overriding someone else's work once you do save. For the most part, your team lead\(s\) should be assigning you individual work so projects shouldn't overlap on the same files, but accidents happen. 
 
 
 
