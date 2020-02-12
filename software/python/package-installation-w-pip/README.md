@@ -1,4 +1,4 @@
-# Package installation w/ pip
+# Package installation
 
 {% hint style="info" %}
 Documentation for specific packages can be found under this one.
