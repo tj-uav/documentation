@@ -45,7 +45,7 @@ Obviously it's UAV club; if you don't wanna learn about planes, then you don't b
 
 **Linux shell**
 
-Okay this one applies to programmers. Linux terminal programming is an EXTREMELY useful skill, trust me you won't regret learning it if you go into anything CS related. We also use a variety of hardware that runs Linux, such as the RPi and the Jetson TX2, so it's recommended you learn how to work with a Linux shell.
+Okay this one applies to programmers. Linux terminal programming is an extremely useful skill, trust me you won't regret learning it if you go into anything CS related. We also use a variety of hardware that runs Linux, such as the RPi and the Jetson TX2, so it's recommended you learn how to work with a Linux shell.
 
 **Python**
 
