@@ -8,11 +8,9 @@ description: The basics of how to CAD effectively.
 
 CAD designs change frequently. That's why it's necessary to program variables in your CAD, called parameters, in case any of your dimensions change. To access it, just click on modify, and then change parameters. 
 
-![](../../.gitbook/assets/screen-shot-2020-02-15-at-3.30.54-pm.png)
+![](../../.gitbook/assets/screen-shot-2020-02-15-at-3.35.16-pm.png)
 
-\*insert picture\*
-
-Parameters must match the dimensions of what they describe. Angular measurement must be made in degrees or radians, lengths in some form of meters, etc.  
+Parameters must match the dimensions of what they describe. Angular measurement must be made in degrees or radians, lengths in some form of meters, etc.  Another important thing to note is that you shouldn't have to use a calculator to calculate any dimensions. This is because computations can be put directly in your definitions of parameters: addition, subtraction, multiplication, etc.
 
 
 
