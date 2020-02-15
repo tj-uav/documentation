@@ -4,6 +4,10 @@ description: The basics of how to CAD effectively.
 
 # CAD Guide
 
+## Sketches
+
+Sketches are used to model in Fusion 360.  A sketch is a 2d plane you define where you define 2d shapes to be modified in 3d.  By using the project command, sketches can include geometry from outside the plane or the intersections of the plane and 3d geometry.
+
 ## Parameterization
 
 CAD designs change frequently. That's why it's necessary to program variables in your CAD, called parameters, in case any of your dimensions change. To access it, just click on modify, and then change parameters. 
