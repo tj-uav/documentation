@@ -11,5 +11,12 @@ Connecting a vehicle:
 3. Click connect.
 4. If the connect fails, that means your telemetry is not operating correctly \(flashing green light means not connected, flashing red means transmitting, solid green means connected, no red light means not transmitting, if no lights are present you forgot to plug it in\)
 
+Mission Planner tabs:
+
+1. Flight Screen: contains all the data about the flight
+2. Flight Plan: where you make and edit missions
+3. Setup: where all calibrations are made
+4. Config/Tuning: for tuning \(only use this after you get something working\)
+
 
 
