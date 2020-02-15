@@ -6,6 +6,7 @@
 
 * [Documentation](procedures/documentation-finish-me/README.md)
   * [New Member Guide](procedures/documentation-finish-me/new-member-guide.md)
+  * [CAD Guide](procedures/documentation-finish-me/cad-guide.md)
   * [GitBook](procedures/documentation-finish-me/gitbook.md)
   * [Basic Usage \(finish me!\)](procedures/documentation-finish-me/basic-usage.md)
 * [Repository Management \(finish me!\)](procedures/repository-management-finish-me/README.md)
