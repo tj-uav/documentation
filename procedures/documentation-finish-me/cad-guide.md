@@ -14,11 +14,9 @@ Parameters must match the dimensions of what they describe. Angular measurement 
 
 
 
-
-
-
-
 ## Timeline
 
-CAD is hard.
+Another basic concept in Fusion is a series of events. Many different operations may need to be performed to create complex shapes, and Fusion keeps track of this in the Timeline. Different icons represent different operations, like New Sketch, Extrude, and Revolve. 
+
+
 
