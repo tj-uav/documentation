@@ -6,7 +6,11 @@ The See3Cam\_CU135 \(colloquially known as the "See3Cam"\) is a 13 MP camera dev
 
 General specifications can be found [here](https://www.e-consystems.com/4k-usb-camera.asp).
 
+**Exposure Command**
 
+```text
+v4l2-ctl -d /dev/video0 -c exposure_absolute=40
+```
 
 ### Data Sheets
 
