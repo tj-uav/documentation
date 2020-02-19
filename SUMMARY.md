@@ -72,6 +72,7 @@
 
 ## Software
 
+* [gphoto2](software/gphoto2.md)
 * [Python](software/python/README.md)
   * [Installation](software/python/installation.md)
   * [Usage](software/python/usage.md)
