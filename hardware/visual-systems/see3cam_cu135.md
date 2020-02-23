@@ -6,6 +6,20 @@ The See3Cam\_CU135 \(colloquially known as the "See3Cam"\) is a 13 MP camera dev
 
 General specifications can be found [here](https://www.e-consystems.com/4k-usb-camera.asp).
 
+**If you are using python-opencv, you must set resolutions before capturing frames:**
+
+```text
+cam = cv2.VideoCapture(0)
+cam.set(3, WIDTH)
+cam.set(4, HEIGHT)
+```
+
+**Get all possible resolutions of camera:**
+
+```text
+v4l2-ctl --list-formats-ext
+```
+
 **Exposure Command**
 
 ```text
