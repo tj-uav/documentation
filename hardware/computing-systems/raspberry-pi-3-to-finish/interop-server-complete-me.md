@@ -29,3 +29,13 @@ stuff u can do as admin
 how to view telemetry data that gets submitted  
 how to view odcl data that gets submitted
 
+**FIXING**
+
+Current setup is on raspbian Jesse with docker compose installed from python3.6's pip. To remove all images:
+
+sudo docker rmi -f $\(sudo docker images -a -q\)
+
+Current Dockerfile configuration is from armv7:latest instead of ubuntu:18.04. This avoids the exec format error raised by ./interop-server.sh up. 
+
+If errors involving 'yakkety' arise when building interop, use armv7:16.04 to use xenial distro instead.
+
