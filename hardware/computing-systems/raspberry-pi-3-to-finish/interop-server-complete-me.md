@@ -4,6 +4,8 @@ description: Instructions to install the AUVSI interop server library on a raspb
 
 # Interop Server \(Complete me!\)
 
+
+
 IP Address: 192.168.1.43
 
 \*\*\*\*
@@ -31,11 +33,27 @@ how to view odcl data that gets submitted
 
 **FIXING**
 
-Current setup is on raspbian Jesse with docker compose installed from python3.6's pip. To remove all images:
+Current setup is on raspbian Jesse with docker-compose installed from python3.6's pip. To remove all images:
 
-sudo docker rmi -f $\(sudo docker images -a -q\)
+`sudo docker rmi -f $(sudo docker images -a -q)`
 
-Current Dockerfile configuration is from armv7:latest instead of ubuntu:18.04. This avoids the exec format error raised by ./interop-server.sh up. 
+Current Dockerfile configuration is from armv7/armhf-ubuntu:latest instead of ubuntu:18.04. This avoids the exec format error raised by ./interop-server.sh up. 
 
-If errors involving 'yakkety' arise when building interop, use armv7:16.04 to use xenial distro instead.
+If errors involving 'yakkety' arise when building interop, use armv7/armhf-ubuntu:16.04 to use the xenial release instead.
+
+Fix pipeline.exceptions.CompressorError: "/usr/bin/env: 'node': No such file or directory" with 
+
+`RUN ln -s /usr/bin/nodejs /usr/bin/node`
+
+in the Dockerfile just before the step that calls RUN ./manage.py
+
+Fix subprocess.CalledProcessError: Command '\['pg\_isready', '-q', '-h', 'interop-db'\]' returned non-zero exit status 2 with
+
+```text
+environment:
+   POSTGRES_USER: "postgres"
+   POSTGRES_HOST_AUTH_METHOD: trust
+```
+
+in /server/docker-compose.yml
 
