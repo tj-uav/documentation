@@ -6,7 +6,7 @@ The interop library is how we can communicate with the interop server over pytho
 
 **Download**
 
-First, make sure you download the AUVSI Interop GitHub directory using the command `git clone` [`https://github.com/auvsi-suas/interop.git`](https://github.com/auvsi-suas/interop.git)   
+First, make sure you download the AUVSI Interop GitHub directory using the command `git clone https://github.com/auvsi-suas/interop.git`  
 Make sure you use the git command to download the library so that you can always `git pull` to install new updates in the future.
 
 The steps for installation are similar for both Windows and Linux/MacOS, however there are subtle differences.
