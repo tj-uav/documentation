@@ -29,7 +29,12 @@ The steps for installation are similar for both Windows and Linux/MacOS, however
 **Windows Installation**
 
 1. Go into the interop/client directory `cd interop/client`
-2. Install requirements`pip3 install -r requirements.txt --user`
+2. Install requirements
+
+   `pip3 install -r requirements.txt --user`
+
+   * if the above doesn't work, try taking out the --user
+
 3. Copy interop/proto into interop/client/proto `cp -r interop/proto interop/client/proto` \(If this command doesn't work, simply copy the folder via file explorer\)
 4. Download protoc.exe file from Google Drive \(TJUAV/Programming\)
 5. Copy the protoc.exe file to the directory where your python3 is installed, and place it in the Scripts folder \(for me it's in C:\Users\Srikar\AppData\Local\Programs\Python\Python36\Scripts\)
