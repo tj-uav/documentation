@@ -33,10 +33,10 @@ The steps for installation are similar for both Windows and Linux/MacOS, however
 
    `pip3 install -r requirements.txt --user`
 
-   * if the above doesn't work, try taking out the --user
+   \(If this command doesn't work, try taking out the --user\)
 
-3. Copy interop/proto into interop/client/proto `cp -r interop/proto interop/client/proto` \(If this command doesn't work, simply copy the folder via file explorer\)
-4. Download protoc.exe file from Google Drive \(TJUAV/Programming\)
+3. Copy interop/proto into interop/client/proto `cp -r interop/proto interop/client/proto` \(If this command doesn't work, simply make the 'proto' folder in client via file explorer\)
+4. Download protoc.exe file from Google Drive \(TJUAV/Subsystems/Programming\)
 5. Copy the protoc.exe file to the directory where your python3 is installed, and place it in the Scripts folder \(for me it's in C:\Users\Srikar\AppData\Local\Programs\Python\Python36\Scripts\)
 6. Run setup.py in interop/client `python3 setup.py install`
 7. Configure environment variables. Note that this step is different from Linux/MacOS. Search your computer for "Edit the system environment variables." Then, click the "Environment Variables..." button. In the catalog that opens, go to "System Variables" and look for PYTHONPATH. If PYTHONPATH does not exist, create a new system environment variable named PYTHONPATH, otherwise just add to the existing variable. The directory to add is the absolute path of the interop/client directory.
