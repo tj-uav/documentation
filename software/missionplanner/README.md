@@ -1,4 +1,10 @@
+---
+description: Mission Planner description and usage
+---
+
 # MissionPlanner
+
+Mission Planner is used by the team for a variety of tasks, such as controlling the plane autonomously, controlling the UGV autonomously, switching the mode the plane is currently in, and controlling the Antenna Tracker. Mission Planner is somewhat of a headache to use, so hopefully the documentation will help you figure out how to use it. If you figure out anything new related to MP, make sure to document it!
 
 Mission planner is our ground-station software. To download it, google Mission Planner \(only for Windows\) and follow downloading instructions from there.
 
