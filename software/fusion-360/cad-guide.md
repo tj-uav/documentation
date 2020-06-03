@@ -22,7 +22,7 @@ CAD designs change frequently. That's why it's necessary to program variables in
 
 ![](../../.gitbook/assets/screen-shot-2020-02-15-at-3.35.16-pm.png)
 
-Parameters must match the dimensions of what they describe. Angular measurement must be made in degrees or radians, lengths in some form of meters, etc.  Another important thing to note is that you shouldn't have to use a calculator to calculate any dimensions. This is because computations can be put directly in your definitions of parameters: addition, subtraction, multiplication, etc.
+Parameters must match the dimensions of what they describe. Angular measurement must be made in degrees or radians, lengths in some form of meters, etc.  Another important thing to note is that you shouldn't have to use a calculator to calculate any dimensions. This is because computations can be put directly in your definitions of parameters: addition, multiplication, etc.
 
 
 
