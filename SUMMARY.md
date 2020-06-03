@@ -6,7 +6,6 @@
 
 * [Documentation](procedures/documentation-finish-me/README.md)
   * [New Member Guide](procedures/documentation-finish-me/new-member-guide.md)
-  * [CAD Guide](procedures/documentation-finish-me/cad-guide.md)
   * [GitBook](procedures/documentation-finish-me/gitbook.md)
   * [Basic Usage \(finish me!\)](procedures/documentation-finish-me/basic-usage.md)
 * [Repository Management \(finish me!\)](procedures/repository-management-finish-me/README.md)
@@ -84,6 +83,7 @@
 * [MissionPlanner](software/missionplanner/README.md)
   * [Installation](software/missionplanner/installation.md)
 * [Fusion 360](software/fusion-360/README.md)
+  * [CAD Guide](software/fusion-360/cad-guide.md)
   * [Installation](software/fusion-360/autodesk-account.md)
   * [Fusion Team](software/fusion-360/fusion-team.md)
 * [Matlab](software/matlab/README.md)
