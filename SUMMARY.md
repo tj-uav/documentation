@@ -58,6 +58,7 @@
     * [Isolation Files](programming/imagery/computer-vision/isolation-files/README.md)
       * [targetIsolation.py](programming/imagery/computer-vision/isolation-files/targetisolation.py.md)
 * [Flight Control](programming/flight-control/README.md)
+  * [Mavlink Communication](programming/flight-control/mavlink-communication.md)
   * [UGV Drop](programming/flight-control/ugv-drop/README.md)
     * [Drop Timing Algorithm](programming/flight-control/ugv-drop/drop-timing-algorithm.md)
     * [Drop Mechanism](programming/flight-control/ugv-drop/drop-mechanism.md)
