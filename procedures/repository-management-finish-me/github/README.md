@@ -10,5 +10,5 @@ GitHub is a platform for Git, which is a Version Control management system. This
 
 #### Git on Windows
 
-Git comes by default on practically every operating system that we'll use \(or encounter, for that matter\), except Windows machines. Although multiple solutions exist, take a look at the[ Git Bash](../../../software/git-bash-finish-me.md) or [Cmder ](../../../software/cmder/)solutions we have documented.
+Git comes by default on practically every operating system that we'll use \(or encounter, for that matter\), except Windows machines. Although multiple solutions exist, take a look at the[ Git Bash]() or [Cmder ](../../../software/cmder/)solutions we have documented.
 

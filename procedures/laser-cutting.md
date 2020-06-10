@@ -1,4 +1,4 @@
-# Laser Cutting \(finish me!\)
+# Laser Cutting
 
 Laser cutting makes use of AutoCAD, an Autodesk software used to format 2D CAD.
 

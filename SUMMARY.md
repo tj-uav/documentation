@@ -16,7 +16,7 @@
     * [Advanced Usage \(Need to complete branches\)](procedures/repository-management-finish-me/git/advanced-usage.md)
     * [Common Issues](procedures/repository-management-finish-me/git/common-issues.md)
 * [Competition Details](procedures/competition-details.md)
-* [Laser Cutting \(finish me!\)](procedures/laser-cutting.md)
+* [Laser Cutting](procedures/laser-cutting.md)
 * [3D Printing \(Needs to be completed\)](procedures/3d-printing.md)
 
 ## Hardware
@@ -47,7 +47,6 @@
   * [RFD-900 \(Please put actual name of device here\) \(To Finish\)](hardware/communication-systems/rfd-900-please-put-actual-name-of-device-here-to-finish.md)
 * [Control Systems](hardware/control-systems/README.md)
   * [Pixhawk \(Please put actual name of device here\)](hardware/control-systems/pixhawk-please-put-actual-name-of-device-here.md)
-  * [GPS \(Please put actual name of device here\)](hardware/control-systems/gps-please-put-actual-name-of-device-here.md)
 
 ## Programming
 
@@ -100,7 +99,7 @@
   * [Installation](software/visual-studio-code/installation-1.md)
   * [Debugging](software/visual-studio-code/debugging/README.md)
     * [Python Debugging Setup](software/visual-studio-code/debugging/untitled.md)
-    * [Java Debugging Setup](software/visual-studio-code/debugging/java-debugging-setup-to-finish.md)
+  * [Extensions \(To complete\)](software/visual-studio-code/extensions-to-complete.md)
 * [AutoCAD](software/autocad/README.md)
   * [Installation](software/autocad/installation.md)
   * [Installation \(To do\)](software/autocad/installation-to-do.md)
@@ -109,7 +108,6 @@
     * [Example menu 2](software/autocad/usage/example-menu-2.md)
 * [Ultimaker Cura](software/ultimaker-cura/README.md)
   * [Installation](software/ultimaker-cura/installation.md)
-* [Git Bash \(Finish me!\)](software/git-bash-finish-me.md)
 
 ## Services
 
@@ -123,12 +121,15 @@
     * [Flask](tutorials/programming-tutorials/python/flask.md)
     * [Computer Vision](tutorials/programming-tutorials/python/computer-vision.md)
     * [Interop Client](tutorials/programming-tutorials/python/interop-client.md)
-    * [Socket Communication](tutorials/programming-tutorials/python/socket-communication.md)
+    * [Socket Communication](tutorials/programming-tutorials/python/socket-communication/README.md)
+      * [Basic Example](tutorials/programming-tutorials/python/socket-communication/basic-example.md)
+      * [Advanced Example](tutorials/programming-tutorials/python/socket-communication/advanced-example.md)
     * [Pymavlink](tutorials/programming-tutorials/python/pymavlink.md)
   * [JavaScript \(frontend\)](tutorials/programming-tutorials/javascript-frontend/README.md)
     * [Node / npm](tutorials/programming-tutorials/javascript-frontend/node-npm.md)
     * [React](tutorials/programming-tutorials/javascript-frontend/react.md)
 * [Mechanical](tutorials/mechanical-tutorials/README.md)
+  * [AutoCAD](tutorials/mechanical-tutorials/autocad.md)
   * [CAD](tutorials/mechanical-tutorials/cad-tutorial.md)
 * [Electronics](tutorials/electronics-tutorials/README.md)
   * [Basic Electronics](tutorials/electronics-tutorials/basic-electronics.md)

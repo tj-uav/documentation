@@ -1,24 +1,16 @@
 # gphoto2
 
-Commands:
+### Useful **Commands:**
 
-Trigger capture:
+Trigger capture: `gphoto2 --trigger-capture`
 
-gphoto2 --trigger-capture
+Capture image and download: `gphoto2 --capture-image-and-download`
 
-Capture image and download:
+Battery life: `gphoto2 --get-config d218 | grep Current`
 
-gphoto2 --capture-image-and-download
+Specify filename: `gphoto2 --capture-image-and-download --filename=PATTERN`
 
-Battery life: 
-
-gphoto2 --get-config d218 \| grep Current
-
-Specify filename:
-
-gphoto2 --capture-image-and-download --filename=PATTERN
-
-PATTERN: 
+**List of patterns:** 
 
 * %A is day of the week
 * %B is month

@@ -58,7 +58,7 @@ Last year \(2019\), there were a lot of weird rules that we discovered at the co
 
 Put anything important that you see mentioned in the rules here:
 
-* UGV judge must give the go-ahead dropping UGV
+* UGV judge must give the go-ahead before dropping UGV
 * Although propulsion can't be used for UGV, using a sparrow or something like that w/o propulsion can be used as a guided glider
 * There will be multiple people flying at the same time, meaning crashing into another plane at the same time is a possibility
   * Although it is possible that the other plane will be submitting telemetry data, it is not required, and therefore we can't depend on it
@@ -68,8 +68,9 @@ Put anything important that you see mentioned in the rules here:
 
 If there's anything important you remember from last year's competition, list it here
 
-* Make sure you have someone keeping track of time during the competition, THIS IS EXTREMELY IMPORTANT
-* Setting up hardware did not take very long, what took long was getting the right MP setting and other tweaks like that, let's make sure we do this kinda stuff beforehand
+* Make sure you have someone keeping track of time during the competition, THIS IS EXTREMELY IMPORTANT.
+* Setting up hardware did not take very long, what took long was getting the right MP setting and other tweaks like that, let's make sure we do this kinda stuff beforehand.
 * We can't be coding at the competition, or bad stuff will happen like last year :\(. All code should be done before competition, and if it's not, then it's not gonna be used during the competition.
-* We get to test with their interop server, so let's spend as much time as possible doing that.
+* We get to test with their interop server at the competition, so let's spend as much time as possible doing that.
+* If we're not the first 6 teams to go on a given day, then we can use other teams' setup times to our advantage \(since they have 6 teams at the flight line at a time\).
 
