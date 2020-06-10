@@ -115,3 +115,21 @@
 
 * [Website](services/tjuav.org.md)
 
+## Tutorials
+
+* [Programming](tutorials/programming-tutorials/README.md)
+  * [Python](tutorials/programming-tutorials/python/README.md)
+    * [Dronekit](tutorials/programming-tutorials/python/dronekit.md)
+    * [Flask](tutorials/programming-tutorials/python/flask.md)
+    * [Computer Vision](tutorials/programming-tutorials/python/computer-vision.md)
+    * [Interop Client](tutorials/programming-tutorials/python/interop-client.md)
+    * [Socket Communication](tutorials/programming-tutorials/python/socket-communication.md)
+    * [Pymavlink](tutorials/programming-tutorials/python/pymavlink.md)
+  * [JavaScript \(frontend\)](tutorials/programming-tutorials/javascript-frontend.md)
+* [Mechanical](tutorials/mechanical-tutorials/README.md)
+  * [CAD](tutorials/mechanical-tutorials/cad-tutorial.md)
+* [Electronics](tutorials/electronics-tutorials/README.md)
+  * [Basic Electronics](tutorials/electronics-tutorials/basic-electronics.md)
+  * [Transmitters / Receivers](tutorials/electronics-tutorials/transmitters-receivers.md)
+  * [Batteries, ESCs, and Motors](tutorials/electronics-tutorials/batteries-escs-and-motors.md)
+
