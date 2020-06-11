@@ -36,14 +36,6 @@ If you want to make a connection to yourself \(for example, testing socket code 
 
 The final important thing that you need to know about sockets before you get coding is that sockets are **blocking**. To understand this, we need to understand how **threading** works. When python \(or any software\) runs a program, it runs it in one **thread**. This means that it runs it line by line, and it doesn't execute the next line until the current line is finished. The problem with sockets is that they're blocking, which means that if you're trying to receive data using a socket, the program will hang until it receives the data. This means that if we wanna execute other functions while using sockets, we will have to use python's **threading** library.
 
-
-
-## Client and Server advanced example
-
-* Tell them to learn how threading works first
-* GitHub link to the example
-* Go through the code and explain each line \(don't need to explain lines in the basic example\)
-
 ## Common Errors
 
 #### Connection Timeouts
