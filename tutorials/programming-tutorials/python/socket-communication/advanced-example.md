@@ -2,7 +2,7 @@
 
 ## Client and Server advanced example
 
-For this basic example, download the python scripts [here](https://github.com/tj-uav/Lectures/tree/master/Tutorials/sockets/advanced). This tutorial will basically go through the code in more detail. This tutorial will assume that you already know the basic stuff from the basic example, and that you know how to use the **threading library**. If you don't know how to use the threading library, you can learn about it [here](https://docs.python.org/3/library/threading.html).
+For this advanced example, download the python scripts [here](https://github.com/tj-uav/Lectures/tree/master/Tutorials/sockets/advanced). This tutorial will basically go through the code in more detail. This tutorial will assume that you already know the basic stuff from the basic example, and that you know how to use the **threading library**. If you don't know how to use the threading library, you can learn about it [here](https://docs.python.org/3/library/threading.html).
 
 The changes made to the **client** and **server** code are very similar, it basically makes it so that you can send and receive data at the same time using **threading**.
 
