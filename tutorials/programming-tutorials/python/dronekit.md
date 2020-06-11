@@ -1,12 +1,16 @@
 ---
-description: Basic dronekit usagetutorial
+description: Basic dronekit usage tutorial
 ---
 
 # Dronekit
 
-Official documentation: [https://dronekit-python.readthedocs.io/en/latest/](https://dronekit-python.readthedocs.io/en/latest/)
+
 
 ## Introduction
+
+Dronekit is an extremely useful tool that can be thought of as an easier way to use pymavlink \(which dronekit is built off of\). Dronekit allows you to interface with flight computers \(like the Pixhawk\) over serial, read data from them like yaw and speed, and perform actions like arming and taking off.
+
+The official documentation for dronekit can be found [here](https://dronekit-python.readthedocs.io/en/latest/). This tutorial will only briefly explain dronekit and it's various uses.
 
 ## Installation
 
