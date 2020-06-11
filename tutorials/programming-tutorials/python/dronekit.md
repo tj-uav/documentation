@@ -4,17 +4,19 @@ description: Basic dronekit usage tutorial
 
 # Dronekit
 
-
-
 ## Introduction
 
 Dronekit is an extremely useful tool that can be thought of as an easier way to use pymavlink \(which dronekit is built off of\). Dronekit allows you to interface with flight computers \(like the Pixhawk\) over serial, read data from them like yaw and speed, and perform actions like arming and taking off.
+
+Along with dronekit comes the dronekit-sitl package, which is extremely useful. Sitl stands for "Software in the loop", which is a fancy way of saying that it's a simulation software. It can be used to simulate the plane and test dronekit code that communicates with the plane.
 
 The official documentation for dronekit can be found [here](https://dronekit-python.readthedocs.io/en/latest/). This tutorial will only briefly explain dronekit and it's various uses.
 
 ## Installation
 
-## Dronekit-sitl
+To install dronekit, simply run `pip install dronekit`.
+
+To install dronekit-sitl, run `pip install dronekit-sitl`.
 
 ## Basic Usage
 
@@ -67,7 +69,22 @@ vehicle.send_mavlink(msg)
 
 ### Dronekit-sitl usage
 
+To use dronekit-sitl, we need to first import it \(using `import dronekit_sitl`\). Then we need to create the start the simulation. The default way to do this would be to prefix the following to your code:
 
+```text
+sitl = dronekit_sitl.start_default()
+connection_string = sitl.connection_string()
+```
+
+You can then use that `connection_string` to connect to create your vehicle object as before. For example: `vehicle = dronekit.connect(connection_string, wait_ready=True)`
+
+When you run code that uses the simulator, in the output of the code you should see "Starting simulator \(SITL\)", and if it's your first time using the simulator for a certain type of vehicle, then it'll probably also download the simulator of that vehicle.
+
+#### Mission Planner connection
+
+By copying the `connection_string` that dronekit-sitl outputs, you can also also connect the simulated vehicle to Mission Planner.
+
+![](../../../.gitbook/assets/image%20%283%29.png)
 
 ## Common Issues
 
