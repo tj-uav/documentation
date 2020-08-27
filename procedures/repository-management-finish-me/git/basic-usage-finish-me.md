@@ -1,26 +1,8 @@
-# Basic Usage \(Finish me!\)
+# Basic Usage
 
-Git isn't an easy thing whatsoever. However, take the time, and you'll discover it becomes the most powerful tool TJUAV has.
+## Accessing a repository  
 
-## Installation
-
-1. Install git. This varies for Mac and Windows.
-2. For windows, use this link \([https://gitforwindows.org/](https://gitforwindows.org/)\) and get the "Git for Windows setup" one. When you're given the option, choose to use git from windows command line \(NOT using gitbash\)
-3. For Mac, first install brew using
-
-```text
-/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-brew doctor
-```
-
-  4. Then install git using
-
-```text
-brew install git
-```
-
-  5. Run "git --version" in your command line to confirm that git installed properly and is working  
-  6. To clone a repository, run
+To clone a repository, run the following:
 
 ```text
 git clone <repository url>
@@ -28,18 +10,18 @@ git clone <repository url>
 
 For example:
 
-```text
+```bash
 git clone https://github.com/tj-uav/Lectures.git
 ```
 
-  7. To update a repository with the newest version, run  
+  To update a repository with the newest version, run the following:  
 
 
 ```text
 git pull
 ```
 
-  8. To view the status of ur repository, run  
+To view the status of your repository, run the following:  
 
 
 ```text
@@ -47,7 +29,7 @@ git status
 ```
 
 This tells you all the files you've changed \(in red\) and all the files you're ready to commit \(in green\)  
-  9. To push something so that everyone else can see it, run  
+  To push something so that everyone else can see it, run  
 
 
 ```text
@@ -56,20 +38,26 @@ git commit -m <message>
 git push
 ```
 
-For the message, give a brief description of your push, for example "Add preprocessing code". PLEASE DONT PUSH UNLESS UR SURE ABOUT UR PUSH, ITS A PAIN TO UNDO PUSHES. Also, you can't push unless you've just pulled, so make sure you're always pulling before u start working. If you don't, merge conflicts will occur, which are a megapain and not fun.  
-10. To discard a change, run  
+For the message, give a brief description of your push, for example "Add preprocessing code". **PLEASE DON'T PUSH UNLESS UR SURE ABOUT THE CONTENTS OF YOUR, IT IS ALWAYS A PAIN TO UNDO PUSHES**. Do not push unless you're 100% positive you want your changes .
+
+Also, you can't push unless you've just pulled, so make sure you're always pulling before you start working. If you don't, merge conflicts may occur the next time you push, which are a total pain to resolve. Don't worry though, git will make sure it doesn't happen.  
+
+
+To discard a change, run the following:  
 
 
 ```text
 git stash
 ```
 
-WARNING: whenever u discard changes, it's hard to retrieve them. You can do  
+To retrieve the changes, run the following  
 
 
 ```text
 git stash pop
 ```
 
-but that might mess things up, so always commit and push changes you wanna keep.
+{% hint style="warning" %}
+Git stash is useful but often might mess things up in various manners. Though there's a place for stashing, try to stick with standard commits.
+{% endhint %}
 
