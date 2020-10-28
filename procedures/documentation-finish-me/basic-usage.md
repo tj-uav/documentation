@@ -1,4 +1,4 @@
-# Basic Usage \(finish me!\)
+# Basic Usage
 
 The entire idea of GitBook is to not forget anything, and to provide as a reference to further the understanding of parts for all members of TJUAV.
 
@@ -46,5 +46,5 @@ Because GitBook manages the master branch located in the tj-uav documentation re
 
 #### Navigation Panel
 
-The Navigation Panel is the 
+The Navigation Panel shows all of the pages in the documentation. You can make a new page by placing your cursor between two pages and clicking on the `+` that comes up. From there, all you need to do is drag the new page to where you want - if you want it under another page, just move it there! If you need to move it deeper into the directory, try dragging the page right to indent.
 
