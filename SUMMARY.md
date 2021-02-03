@@ -52,7 +52,9 @@
 
 ## Programming
 
-* [Imaging](programming/imagery/README.md)
+* [Imaging / Computer Vision](programming/imagery/README.md)
+  * [Map Stitching](programming/imagery/map-stitching/README.md)
+    * [SIFT Map Stitching](programming/imagery/map-stitching/sift-map-stitching.md)
   * [Image Compression](programming/imagery/image-compression.md)
   * [Geotagging](programming/imagery/geotagging.md)
   * [Computer Vision](programming/imagery/computer-vision/README.md)
@@ -67,6 +69,7 @@
   * [Obstacle Avoidance](programming/flight-control/obstacle-avoidance/README.md)
     * [A\*](programming/flight-control/obstacle-avoidance/a.md)
 * [Ground Control Systems](programming/ground-control-systems/README.md)
+  * [Auto-assisted Image stitching](programming/ground-control-systems/auto-assisted-image-stitching.md)
   * [Antenna Tracker](programming/ground-control-systems/antenna-tracker.md)
   * [ODCL Server](programming/ground-control-systems/odcl-server.md)
   * [ODCL Client](programming/ground-control-systems/odcl-client.md)
@@ -93,10 +96,6 @@
   * [CAD Guide](software/fusion-360/cad-guide.md)
   * [Installation](software/fusion-360/autodesk-account.md)
   * [Fusion Team](software/fusion-360/fusion-team.md)
-* [Matlab](software/matlab/README.md)
-  * [Installation \(To complete\)](software/matlab/intallation.md)
-* [Cmder](software/cmder/README.md)
-  * [Installation](software/cmder/installation.md)
 * [Visual Studio Code](software/visual-studio-code/README.md)
   * [Installation](software/visual-studio-code/installation-1.md)
   * [Debugging](software/visual-studio-code/debugging/README.md)
