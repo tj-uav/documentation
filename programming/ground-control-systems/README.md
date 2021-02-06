@@ -18,9 +18,9 @@ TODO: ADD BLOCK DIAGRAM
 
 The ODCL Server computer is responsible for communicating with the Jetson \(receiving geotagged images as well as sending UGV confirmation\), communicating with the ODCL computers \(distributing those images and receiving ROIs\), classifying ODCLs, and communicating with the interop server \(to submit ODCL submissions\).
 
-### **ODCL Client Computer**
+### **ODCL Client Computers**
 
-The ODCL Client computer is responsible for receiving images from the ODCL Server, manually detecting those images, and sending ROIs back to the ODCL Server.  
+ODCL Client computers are responsible for receiving images from the ODCL Server, manually detecting those images, and sending ROIs back to the ODCL Server.  
   
 The ODCL Client computers may also be running the auto-assisted ROI code.  
   
