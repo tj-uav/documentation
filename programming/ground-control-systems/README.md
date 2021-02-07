@@ -10,7 +10,7 @@ The Ground Control Systems is the system of computers used to perform any tasks 
 
 ## Block Diagram
 
-TODO: ADD BLOCK DIAGRAM
+![](../../.gitbook/assets/image%20%2835%29.png)
 
 ## GCS Computers
 
