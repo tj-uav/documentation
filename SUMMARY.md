@@ -110,6 +110,7 @@
     * [Example menu 2](software/autocad/usage/example-menu-2.md)
 * [Ultimaker Cura](software/ultimaker-cura/README.md)
   * [Installation](software/ultimaker-cura/installation.md)
+  * [Getting Started](software/ultimaker-cura/getting-started.md)
 
 ## Services
 
