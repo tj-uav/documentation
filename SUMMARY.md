@@ -116,6 +116,10 @@
     * [Shell](software/ultimaker-cura/getting-started/shell.md)
     * [Infill](software/ultimaker-cura/getting-started/infill.md)
     * [Material](software/ultimaker-cura/getting-started/material.md)
+    * [Speed](software/ultimaker-cura/getting-started/speed.md)
+    * [Travel](software/ultimaker-cura/getting-started/travel.md)
+    * [Cooling](software/ultimaker-cura/getting-started/cooling.md)
+    * [Supports](software/ultimaker-cura/getting-started/supports.md)
 
 ## Services
 

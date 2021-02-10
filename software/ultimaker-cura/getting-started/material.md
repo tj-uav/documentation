@@ -1,6 +1,6 @@
 # Material
 
-![](../../../.gitbook/assets/image%20%2845%29.png)
+![](../../../.gitbook/assets/image%20%2846%29.png)
 
 Temperature depends on your FILAMENT BRAND, not your plastic type. Check the package carefully for the temperature range and pick a number in the middle. PLA tends to run around 200C while ABS is around 245C. 
 
