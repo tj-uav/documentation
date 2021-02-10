@@ -110,7 +110,12 @@
     * [Example menu 2](software/autocad/usage/example-menu-2.md)
 * [Ultimaker Cura](software/ultimaker-cura/README.md)
   * [Installation](software/ultimaker-cura/installation.md)
-  * [Getting Started](software/ultimaker-cura/getting-started.md)
+  * [Getting Started](software/ultimaker-cura/getting-started/README.md)
+    * [Profiles](software/ultimaker-cura/getting-started/profiles.md)
+    * [Quality](software/ultimaker-cura/getting-started/quality.md)
+    * [Shell](software/ultimaker-cura/getting-started/shell.md)
+    * [Infill](software/ultimaker-cura/getting-started/infill.md)
+    * [Material](software/ultimaker-cura/getting-started/material.md)
 
 ## Services
 
