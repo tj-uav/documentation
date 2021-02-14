@@ -1,3 +1,5 @@
 # A\*
 
-A* is a pathing algorithm that takes into account obstacles and waypoints in order to find the best and shortest path from start to a goal.
+### **Background**
+
+A* is what is known as an informed search algorithm. There are different types of these algorithms, but their overall purpose is the same. To find the best path between a start and end point while given a set of restrictions and/or conditions.
