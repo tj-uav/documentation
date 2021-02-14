@@ -26,13 +26,15 @@ Given these restrictions, the algorithm starts forming and testing paths extendi
 
 a\_star\(root, goal\):
 
-     node = pq.pop\(\)
+     while True:
 
-     for a in successors\(node\):
+          node = pq.pop\(\)
 
-          if goal\_test\(\):
+          for a in successors\(node\):
 
-               return path
+               if goal\_test\(\):
 
-          pq.add\(a, distance\)
+                    return path
+
+               pq.add\(a, distance\)
 
