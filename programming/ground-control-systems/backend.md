@@ -22,11 +22,18 @@ The backend uses helper classes and endpoints to deliver information from the fl
 
 ### **Endpoints**
 
-**/hello**
+**/** - homepage, testing endpoint
 
-**/interop/login**
+**/interop/login** - prompts the InteropHandler to attempt a login and returns its success/failure
 
-**/interop/get/&lt;key&gt;**
+**/interop/get/&lt;key&gt;** - gets a mission attribute, current keys are: "mission": The entire mission \(json object\)  
+"waypoints": List of \[latitude \(float\), longitude \(float\), altitude \(float\)\] lists  
+"obstacles": List of \[\]  
+"teams": self.teams  
+"search": self.search\_grid  
+"ugv": self.ugv\_points  
+"odlc": self.odlc\_points  
+"lost\_comms": self.lost\_comms\_pos
 
 **/interop/telemetry**
 

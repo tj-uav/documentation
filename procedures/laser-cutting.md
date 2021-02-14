@@ -15,7 +15,7 @@ Import your file into AutoCAD. Find the page for your plane, click Resources, th
 
 ![Import the first page with the default settings shown above](../.gitbook/assets/image%20%2831%29.png)
 
-![Import additional pages by selecting &quot;Specify insertion point on-screen&quot;](../.gitbook/assets/image%20%2815%29.png)
+![Import additional pages by selecting &quot;Specify insertion point on-screen&quot;](../.gitbook/assets/image%20%2818%29.png)
 
 ![Insert additional pages to the side of preexisting pages](../.gitbook/assets/image%20%2829%29.png)
 
