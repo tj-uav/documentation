@@ -24,5 +24,15 @@ Given these restrictions, the algorithm starts forming and testing paths extendi
 
 ### Pseudocode
 
+a\_star\(root, goal\):
 
+     node = pq.pop\(\)
+
+     for a in successors\(node\):
+
+          if goal\_test\(\):
+
+               return path
+
+          pq.add\(a, distance\)
 
