@@ -18,5 +18,11 @@ The algorithm begins at a given starting waypoint and runs the A\* algorithm wit
 
 Each point, new or old, is saved as a Node object, which is a class that contains information about a waypoint such as coordinates, altitude, and the parent Node, which is the previous Node on its path. This parent Node can also be used to determine the direction using the tangent function. Obstacles are also stored in Obstacle objects, which contain coordinates, radius, and height.
 
-When a new point is created
+When a new point is created, it is added to a data structure called a Priority Queue. A queue is a form of data storage that is First-In-First-Out. In other words, items that are first added to the queue are also the first to leave. A Priority Queue, in addition to being a queue structure, also orders items by group or "priority". Each item is a part of a group that is ordered by priority in the Priority Queue. The queue structure is maintained within each group. In this case, the parameter that determines priority is the distance to the goal Node. Nodes that are closer to the goal are prioritized for a potential path. Nodes are not added to the Priority Queue if they result in an intersection with an obstacle.
+
+Given these restrictions, the algorithm starts forming and testing paths extending from the current first Node in the Priority Queue, which is then removed to prevent unnecessary repetition. Thus, the algorithm will attempt to reach the goal while maintaining the shortest distance to the said goal, resulting in the best path possible.
+
+### Pseudocode
+
+
 
