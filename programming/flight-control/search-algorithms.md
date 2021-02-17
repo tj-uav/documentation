@@ -30,7 +30,7 @@ The sine wave search algorithm is basically just drawing a sine wave over the se
 
 ### **Search by rows**
 
-The idea of searching by rows is a simple idea that comes to mind quickly. It offers many advantages, such as being able to fully  scan the entire field and using very few waypoints \(since the plane will mostly be travelling in a straight line\). However, it will be difficult to implement the turns between rows while keeping the bank angle low, making sure to stay in bounds, AND making sure to search every spot.
+The idea of searching by rows is a simple idea that comes to mind quickly. It offers many advantages, such as being able to fully scan the entire field and using very few waypoints \(since the plane will mostly be traveling in a straight line\). However, it will be difficult to implement the turns between rows while keeping the bank angle low, making sure to stay in bounds, AND making sure to search every spot.
 
 * Doesn't use too many waypoints ✅
 * Allows for maximum footage of the ground from the camera ✅
