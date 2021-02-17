@@ -26,15 +26,17 @@ Given these restrictions, the algorithm starts forming and testing paths extendi
 
 a\_star\(root, goal\):
 
-     while True:
+     while pq is not empty:
 
-          node = pq.pop\(\)
+          current\_node = pq.pop\(\)
 
-          for a in successors\(node\):
+          for each node in successors\(current\_node\):
 
-               if goal\_test\(\):
+               if node reaches goal:
 
                     return path
 
-               pq.add\(a, distance\)
+               if node not in obstacles:
+
+                    pq.add\(a, distance\)
 
