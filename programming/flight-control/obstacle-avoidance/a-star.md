@@ -22,7 +22,9 @@ When a new point is created, it is added to a data structure called a Heap Queue
 
 Given these restrictions, the algorithm starts forming and testing paths extending from the current first Node in the Priority Queue, which is then removed to prevent unnecessary repetition. Thus, the algorithm will attempt to reach the goal while maintaining the shortest distance to the said goal, resulting in the best path possible.
 
-### Pseudocode
+## Pseudocode
+
+### A\*
 
 a\_star\(root, goal\):
 
@@ -34,9 +36,25 @@ a\_star\(root, goal\):
 
                if node reaches goal:
 
-                    return path
+                    set goal as child of node
+
+                    return
 
                if node not in obstacles:
 
                     pq.add\(a, distance\)
+
+### Pathing
+
+\#path is goal.parent.parent.parent... etc.
+
+path = list of goal
+
+while node has parent:
+
+     add parent to path
+
+### Neighbors
+
+
 
