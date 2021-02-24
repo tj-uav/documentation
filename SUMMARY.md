@@ -121,6 +121,7 @@
     * [Travel](software/ultimaker-cura/getting-started/travel.md)
     * [Cooling](software/ultimaker-cura/getting-started/cooling.md)
     * [Supports](software/ultimaker-cura/getting-started/supports.md)
+    * [Adhesion](software/ultimaker-cura/getting-started/adhesion.md)
 
 ## Services
 
