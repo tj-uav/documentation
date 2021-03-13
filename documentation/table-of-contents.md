@@ -49,7 +49,7 @@
 * **Hardware**
   * [Computers \(Pixhawk, Jetson, Pi\)](../hardware-1/untitled.md)
   * [Radios \(Bullet, RFD\)](../hardware-1/radios/)
-  * [Cameras \(See3, A5000, rpi cam\)](../hardware-1/cameras.md)
+  * [Cameras \(See3, A5000, rpi cam\)](../hardware-1/cameras/)
 * **Tutorials**
   * [CAD Tutorial](../tutorials-1/cad-tutorial/)
     * [Wings](../tutorials-1/cad-tutorial/wing-cad-tutorial.md)
