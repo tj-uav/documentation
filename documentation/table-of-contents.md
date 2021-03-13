@@ -3,8 +3,8 @@
 
 
 * **Documentation**
-  * [What is UAV?](what-is-tjuav.md)
-  * [Competition details \(link to the rules\)](competition-details.md)
+  * [What is UAV?](what-is-tjuav/)
+  * [Competition details \(link to the rules\)](what-is-tjuav/competition-details.md)
   * [How to Use gitbook \(link to this document\)](untitled.md)
   * [Table of Contents](table-of-contents.md)
 * **RC Guide**

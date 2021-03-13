@@ -4,8 +4,9 @@
 
 ## Documentation
 
-* [What is TJUAV?](documentation/what-is-tjuav.md)
-* [Competition Details](documentation/competition-details.md)
+* [What is TJUAV?](documentation/what-is-tjuav/README.md)
+  * [Subsystems](documentation/what-is-tjuav/subsystems.md)
+  * [Competition Details](documentation/what-is-tjuav/competition-details.md)
 * [How to Use Gitbook](documentation/untitled.md)
 * [Table of Contents](documentation/table-of-contents.md)
 
