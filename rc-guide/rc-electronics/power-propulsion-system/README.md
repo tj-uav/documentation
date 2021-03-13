@@ -1,6 +1,6 @@
 # Power / Propulsion System
 
-The Power/Propulsion system encapsulates all of the electronics on the plane. It is important to know how this system works because it utilizes the all of the electronics components on the plane to generate thrust.
+The Power/Propulsion system encapsulates all of the electronics on the plane. It is important to know how this system works because it utilizes the electronics components to generate thrust and power the plane.
 
 **Electronics Overview:**
 
