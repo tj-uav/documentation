@@ -1,2 +1,0 @@
-# Batteries, ESCs, and Motors
-

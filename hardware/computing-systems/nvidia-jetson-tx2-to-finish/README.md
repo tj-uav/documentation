@@ -1,2 +1,0 @@
-# NVidia Jetson TX2
-
