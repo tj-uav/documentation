@@ -48,7 +48,7 @@
     * [Aws Usage](../software-1/website/aws-usage.md)
 * **Hardware**
   * [Computers \(Pixhawk, Jetson, Pi\)](../hardware-1/untitled.md)
-  * [Radios \(Bullet, RFD\)](../hardware-1/radios.md)
+  * [Radios \(Bullet, RFD\)](../hardware-1/radios/)
   * [Cameras \(See3, A5000, rpi cam\)](../hardware-1/cameras.md)
 * **Tutorials**
   * [CAD Tutorial](../tutorials-1/cad-tutorial/)

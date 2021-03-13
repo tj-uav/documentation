@@ -46,7 +46,8 @@
 ## Hardware <a id="hardware-1"></a>
 
 * [Computers](hardware-1/untitled.md)
-* [Radios](hardware-1/radios.md)
+* [Radios](hardware-1/radios/README.md)
+  * [Ubiquiti Bullet and Powerbeam M2](hardware-1/radios/bullet-m2.md)
 * [Cameras](hardware-1/cameras.md)
 
 ## Tutorials <a id="tutorials-1"></a>
