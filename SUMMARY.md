@@ -52,6 +52,7 @@
 
 * [Computers](hardware-1/untitled.md)
 * [Radios](hardware-1/radios/README.md)
+  * [RFD900x](hardware-1/radios/rfd900x.md)
   * [Ubiquiti Bullet and Powerbeam M2](hardware-1/radios/bullet-m2.md)
 * [Cameras](hardware-1/cameras/README.md)
   * [See3Cam\_CU135](hardware-1/cameras/untitled-1.md)
