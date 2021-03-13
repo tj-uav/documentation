@@ -7,5 +7,5 @@ description: >-
 
 # Power / Propulsion System
 
-As a general overview, the electronics on the plane are powered by the flow of electrons \(electricity\). When it comes to electricity, there are three important aspects: voltage, amperage, and resistance.
+As a general overview, the electronics on the plane are powered by the flow of electrons \(electricity\). When it comes to electricity, there are three important aspects: voltage, amperage, and resistance. Let's briefly go over each.
 
