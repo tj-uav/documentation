@@ -12,5 +12,7 @@ Current, measured in amperes \(amps\), is the measure of the number of electrons
 
 Last, but certainly not least, resistance, measured in ohms \(Ω\), is the opposition of current \(essentially the "pulling force" behind the electrons\). One way to think about resistance is the friction that acts on electrons as they flow through a circuit.
 
-In summary, each aspect of electricity works together. In fact, they heavily influence each other. The relationship between them, known as Ohm's Law is: E = IR, in which E is the voltage, I is the current, and R is the resistance.
+In summary, each aspect of electricity works together. In fact, they heavily influence each other. The relationship between them, known as Ohm's Law is:
+
+E is the voltage, I is the current, and R is the resistance.
 
