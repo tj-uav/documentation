@@ -14,5 +14,5 @@ Last, but certainly not least, resistance, measured in ohms \(Ω\), is the oppos
 
 In summary, each aspect of electricity works together. In fact, they heavily influence each other. The relationship between them, known as Ohm's Law is:
 
-E is the voltage, I is the current, and R is the resistance.
+![ E is the voltage, I is the current, and R is the resistance.](../../../.gitbook/assets/ohms-law.png)
 
