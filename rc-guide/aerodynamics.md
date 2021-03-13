@@ -30,7 +30,7 @@ These two factors combined help generate lift and counteract gravity keeping the
 
 ## **Control Surfaces**
 
-**How control surfaces maneuver the plane:** Control surfaces allow the plane to pitch up or down \(elevator\), yaw left or right \(rudder\), and roll clockwise or counterclockwise \(ailerons\). When control surfaces are moved they deflect air in a certain direction and in doing so, move in the opposite direction. For example, if you move your elevator up, the air that would've been flowing straight is now deflected upward by the elevator. As an equal and opposite action, the elevator then moves down. This causes the plane to pitch up.
+**How control surfaces maneuver the plane:** Control surfaces allow the plane to pitch up or down \(elevator\), yaw left or right \(rudder\), and roll clockwise or counterclockwise \(ailerons\). When control surfaces are moved they deflect air in a certain direction and in doing so, move in the opposite direction. For example, if you move your elevator up, the air that would've been flowing straight is now deflected upward by the elevator. As an equal and opposite action, the elevator, along with the entire rear of the plane then moves down. This causes the plane to pitch up.
 
 
 
