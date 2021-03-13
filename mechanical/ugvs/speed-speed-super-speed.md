@@ -1,6 +1,6 @@
 # Speed car super speed
 
-The Speed Car Super Speed \(SCSS\) ~~is~~ was a four wheeled prototype UGV which took 10 minutes to build and 50 hours to figure out how to use and debug. Much of the Mission Planner documentation and this page are a testament to the tough work of getting things to function as expected. Some key takeaways are described at the bottom of this page.
+The Speed Car Super Speed \(SCSS\) ~~is~~ was a four wheeled prototype UGV which took 10 minutes to build and 50 hours to figure out how to use and debug. Much of the [Mission Planner documentation](../../software-1/programming/mission-planner.md) and this page are a testament to the tough work of getting things to function as expected. Some key takeaways are described at the bottom of this page.
 
 ![](../../.gitbook/assets/image%20%2849%29.png)
 
