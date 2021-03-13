@@ -79,7 +79,8 @@
   * [Testing Plane](mechanical/airframes/testing-plane.md)
   * [Avalon](mechanical/airframes/avalon.md)
 * [UGVs](mechanical/ugvs/README.md)
-  * [Speed speed super speed](mechanical/ugvs/speed-speed-super-speed.md)
+  * [Speed car super speed](mechanical/ugvs/speed-speed-super-speed.md)
+  * [Electrical System](mechanical/ugvs/electrical-system.md)
   * [SPARTA \(Servo Powered Autonomous Rough Terrain Automobile\)](mechanical/ugvs/sparta-servo-powered-autonomous-rough-terrain-automobile.md)
 
 ## Programming Progress
