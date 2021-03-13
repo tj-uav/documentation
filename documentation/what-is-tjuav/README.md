@@ -14,3 +14,5 @@ Throughout the year, we partake in a variety of fun RC activities, but our main 
 
 When working on the competition, the team is mostly split into two [subsystems](subsystems.md), Mechanical and Programming. If you're unsure what you want to do, think about what you want to go into when you grow up, and what your passion is. Also you can do both mechanical and programming tasks, it's up to you, just let someone \(an officer or a lead\) know what subsystem you want to work on and they'll properly assign you a task.
 
+![2019-2020 TJUAV Squad](https://lh5.googleusercontent.com/Q5F1pLDxikehVnDvpJr3gLpLL34eldHnxpoW8acpbYl0_RwUjvQ0EOoFtqyB2mqlOr7nl4FDTjGc_lgusnD7TA2Yfcr6guo2bBQcuF5W9sb769ySvmghB01hW2gdpGOWsO94ac7z)
+

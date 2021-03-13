@@ -10,9 +10,13 @@ Voltage, measured in volts \(V\), is the "pushing force" behind the electrons. W
 
 Current, measured in amperes \(amps\), is the measure of the number of electrons moving through a given area per second \(or more broadly, the net rate of flow of electrons through a given space\). If we were to take a deeper look at current, we would find that electrons move incredibly fast. For instance, one coulomb \(C\) per second is equal to one amp. One coulomb is equal to 6.24x10¹⁸ electrons, so if there is one amp flowing through a wire, that means that there are 6.24x10¹⁸ electrons flowing through a single point every second!
 
-Last, but certainly not least, resistance, measured in ohms \(Ω\), is the opposition of current \(essentially the "pulling force" behind the electrons\). One way to think about resistance is the friction that acts on electrons as they flow through a circuit.
+Last, but certainly not least, resistance, measured in ohms \(Ω\), is exactly what it sounds like -- the opposition of current \(essentially the "pulling force" behind the electrons\). One way to think about resistance is the friction that acts on electrons as they flow through a circuit.
 
-In summary, each aspect of electricity works together. In fact, they heavily influence each other. The relationship between them, known as Ohm's Law is:
+In summary, each aspect of electricity works together. In fact, they heavily influence each other. Here is a depiction:
 
-![ E is the voltage, I is the current, and R is the resistance.](../../../.gitbook/assets/ohms-law.png)
+![&quot;Volt man&quot; pushes &quot;Amp man&quot; as &quot;Ohm man&quot; constricts its passage](https://lh6.googleusercontent.com/5mSQ-2LW0RojXx8jK_apCagk8DzqoQ6ZzCtIk3LEfvol3mYT1oeuuKVkBGn4e_JPIPqBec3yTmbmySagh0-ltorQGwq1Ig4fbBR-kmnBkDSRtMpjMPWqNaaaOhbvxvQJCExJLki8)
+
+In simpler terms, the relationship between them, known as Ohm's Law:
+
+![ E is the voltage, I is the current, and R is the resistance](../../../.gitbook/assets/ohms-law.png)
 
